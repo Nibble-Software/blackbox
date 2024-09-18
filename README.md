@@ -1,4 +1,4 @@
-# Code evaluator kernel
+# Blackbox
 
 **Author: Marcelo de Jesús Núñez**
 
